@@ -1,0 +1,132 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bilal\\source\\repos\\EmployeeManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F1ECCB85-39A8-4E08-B27A-A622380DBEB2}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|c:\\users\\bilal\\source\\repos\\employeemanagementsystem\\employeemanagementsystem\\forms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1ECCB85-39A8-4E08-B27A-A622380DBEB2}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|solutionrelative:employeemanagementsystem\\forms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1ECCB85-39A8-4E08-B27A-A622380DBEB2}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|c:\\users\\bilal\\source\\repos\\employeemanagementsystem\\employeemanagementsystem\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1ECCB85-39A8-4E08-B27A-A622380DBEB2}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|solutionrelative:employeemanagementsystem\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1ECCB85-39A8-4E08-B27A-A622380DBEB2}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|c:\\users\\bilal\\source\\repos\\employeemanagementsystem\\employeemanagementsystem\\services\\dataservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1ECCB85-39A8-4E08-B27A-A622380DBEB2}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|solutionrelative:employeemanagementsystem\\services\\dataservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1ECCB85-39A8-4E08-B27A-A622380DBEB2}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|c:\\users\\bilal\\source\\repos\\employeemanagementsystem\\employeemanagementsystem\\forms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F1ECCB85-39A8-4E08-B27A-A622380DBEB2}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|solutionrelative:employeemanagementsystem\\forms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1ECCB85-39A8-4E08-B27A-A622380DBEB2}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|c:\\users\\bilal\\source\\repos\\employeemanagementsystem\\employeemanagementsystem\\forms\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1ECCB85-39A8-4E08-B27A-A622380DBEB2}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|solutionrelative:employeemanagementsystem\\forms\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1ECCB85-39A8-4E08-B27A-A622380DBEB2}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|c:\\users\\bilal\\source\\repos\\employeemanagementsystem\\employeemanagementsystem\\forms\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F1ECCB85-39A8-4E08-B27A-A622380DBEB2}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|solutionrelative:employeemanagementsystem\\forms\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\bilal\\source\\repos\\EmployeeManagementSystem\\EmployeeManagementSystem\\Forms\\Form1.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementSystem\\Forms\\Form1.cs",
+              "ToolTip": "C:\\Users\\bilal\\source\\repos\\EmployeeManagementSystem\\EmployeeManagementSystem\\Forms\\Form1.cs",
+              "RelativeToolTip": "EmployeeManagementSystem\\Forms\\Form1.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAAAFoAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T13:11:45.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DataServices.cs",
+              "DocumentMoniker": "C:\\Users\\bilal\\source\\repos\\EmployeeManagementSystem\\EmployeeManagementSystem\\Services\\DataServices.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementSystem\\Services\\DataServices.cs",
+              "ToolTip": "C:\\Users\\bilal\\source\\repos\\EmployeeManagementSystem\\EmployeeManagementSystem\\Services\\DataServices.cs",
+              "RelativeToolTip": "EmployeeManagementSystem\\Services\\DataServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T11:51:51.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\bilal\\source\\repos\\EmployeeManagementSystem\\EmployeeManagementSystem\\Repositories\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementSystem\\Repositories\\EmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\bilal\\source\\repos\\EmployeeManagementSystem\\EmployeeManagementSystem\\Repositories\\EmployeeRepository.cs",
+              "RelativeToolTip": "EmployeeManagementSystem\\Repositories\\EmployeeRepository.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAYwCcAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T11:51:43.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\bilal\\source\\repos\\EmployeeManagementSystem\\EmployeeManagementSystem\\Forms\\Form1.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementSystem\\Forms\\Form1.cs",
+              "ToolTip": "C:\\Users\\bilal\\source\\repos\\EmployeeManagementSystem\\EmployeeManagementSystem\\Forms\\Form1.cs [Design]",
+              "RelativeToolTip": "EmployeeManagementSystem\\Forms\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T11:29:24.904Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "C:\\Users\\bilal\\source\\repos\\EmployeeManagementSystem\\EmployeeManagementSystem\\Forms\\LoginForm.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementSystem\\Forms\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\bilal\\source\\repos\\EmployeeManagementSystem\\EmployeeManagementSystem\\Forms\\LoginForm.cs",
+              "RelativeToolTip": "EmployeeManagementSystem\\Forms\\LoginForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T11:08:57.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\bilal\\source\\repos\\EmployeeManagementSystem\\EmployeeManagementSystem\\Forms\\LoginForm.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementSystem\\Forms\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\bilal\\source\\repos\\EmployeeManagementSystem\\EmployeeManagementSystem\\Forms\\LoginForm.cs [Design]",
+              "RelativeToolTip": "EmployeeManagementSystem\\Forms\\LoginForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T11:08:55.644Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
